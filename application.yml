@@ -16,4 +16,4 @@ microservice:
   order-service:
     endpoints:
       enpoint:
-        url: http://ORDER-SERVICE/order/create
+        url: http://ORDER-SERVICE/order/bookOrder
